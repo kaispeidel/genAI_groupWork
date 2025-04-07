@@ -1,2 +1,8 @@
 # genAI_groupWork
-group work repositor for my gen AI project for Ai for Business
+group work repository for my gen AI project for Ai for Business:
+
+
+This Repository Constists of:
+
+
+
